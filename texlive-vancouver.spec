@@ -1,12 +1,12 @@
-# revision 15878
+# revision 25519
 # category Package
 # catalog-ctan /biblio/bibtex/contrib/vancouver
-# catalog-date 2007-03-13 09:06:46 +0100
+# catalog-date 2012-02-27 00:21:15 +0100
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-vancouver
-Version:	20070313
-Release:	2
+Version:	20120227
+Release:	1
 Summary:	Bibliographic style file for Biomedical Journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/vancouver
@@ -36,9 +36,10 @@ ICMJE web site.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/bibtex/bib/vancouver/vancouver.bib
 %{_texmfdistdir}/bibtex/bst/vancouver/vancouver.bst
+%doc %{_texmfdistdir}/doc/bibtex/vancouver/FAQ
 %doc %{_texmfdistdir}/doc/bibtex/vancouver/README
+%doc %{_texmfdistdir}/doc/bibtex/vancouver/vancouver.bib
 %doc %{_texmfdistdir}/doc/bibtex/vancouver/vancouver.pdf
 %doc %{_texmfdistdir}/doc/bibtex/vancouver/vancouver.tex
 
