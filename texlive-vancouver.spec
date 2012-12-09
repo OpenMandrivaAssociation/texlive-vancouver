@@ -52,3 +52,24 @@ ICMJE web site.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar bibtex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Mar 09 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 20120227-2
++ Revision: 783481
+- rebuild without scriptlet dependencies
+
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120227-1
++ Revision: 783097
+- Update to latest release.
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 20070313-2
++ Revision: 757361
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20070313-1
++ Revision: 719870
+- texlive-vancouver
+- texlive-vancouver
+- texlive-vancouver
+
