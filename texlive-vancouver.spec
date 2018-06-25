@@ -5,7 +5,7 @@
 # catalog-license gpl
 # catalog-version undef
 Name:		texlive-vancouver
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Bibliographic style file for Biomedical Journals
 Group:		Publishing
