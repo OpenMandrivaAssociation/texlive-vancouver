@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-vancouver
 Version:	20180303
-Release:	1
+Release:	2
 Summary:	Bibliographic style file for Biomedical Journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/vancouver
