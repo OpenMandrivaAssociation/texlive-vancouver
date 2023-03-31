@@ -1,6 +1,6 @@
 Name:		texlive-vancouver
 Version:	59192
-Release:	1
+Release:	2
 Summary:	Bibliographic style file for Biomedical Journals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/vancouver
