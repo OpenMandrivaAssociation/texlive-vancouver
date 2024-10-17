@@ -3,7 +3,7 @@ Version:	59192
 Release:	2
 Summary:	Bibliographic style file for Biomedical Journals
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/biblio/bibtex/contrib/vancouver
+URL:		https://www.ctan.org/tex-archive/biblio/bibtex/contrib/vancouver
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vancouver.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/vancouver.doc.r%{version}.tar.xz
